@@ -1,0 +1,14 @@
+C:\Users\Cesae\Desktop\Programação Estruturada\Projetos\Exercicios\vendingMachine\vendingMachine1.0\vendingMachine1.0\bin\Debug\net8.0\vendingMachine1.0.exe
+C:\Users\Cesae\Desktop\Programação Estruturada\Projetos\Exercicios\vendingMachine\vendingMachine1.0\vendingMachine1.0\bin\Debug\net8.0\vendingMachine1.0.deps.json
+C:\Users\Cesae\Desktop\Programação Estruturada\Projetos\Exercicios\vendingMachine\vendingMachine1.0\vendingMachine1.0\bin\Debug\net8.0\vendingMachine1.0.runtimeconfig.json
+C:\Users\Cesae\Desktop\Programação Estruturada\Projetos\Exercicios\vendingMachine\vendingMachine1.0\vendingMachine1.0\bin\Debug\net8.0\vendingMachine1.0.dll
+C:\Users\Cesae\Desktop\Programação Estruturada\Projetos\Exercicios\vendingMachine\vendingMachine1.0\vendingMachine1.0\bin\Debug\net8.0\vendingMachine1.0.pdb
+C:\Users\Cesae\Desktop\Programação Estruturada\Projetos\Exercicios\vendingMachine\vendingMachine1.0\vendingMachine1.0\obj\Debug\net8.0\vendingMachine1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesae\Desktop\Programação Estruturada\Projetos\Exercicios\vendingMachine\vendingMachine1.0\vendingMachine1.0\obj\Debug\net8.0\vendingMachine1.0.AssemblyInfoInputs.cache
+C:\Users\Cesae\Desktop\Programação Estruturada\Projetos\Exercicios\vendingMachine\vendingMachine1.0\vendingMachine1.0\obj\Debug\net8.0\vendingMachine1.0.AssemblyInfo.cs
+C:\Users\Cesae\Desktop\Programação Estruturada\Projetos\Exercicios\vendingMachine\vendingMachine1.0\vendingMachine1.0\obj\Debug\net8.0\vendingMachine1.0.csproj.CoreCompileInputs.cache
+C:\Users\Cesae\Desktop\Programação Estruturada\Projetos\Exercicios\vendingMachine\vendingMachine1.0\vendingMachine1.0\obj\Debug\net8.0\vendingMachine1.0.dll
+C:\Users\Cesae\Desktop\Programação Estruturada\Projetos\Exercicios\vendingMachine\vendingMachine1.0\vendingMachine1.0\obj\Debug\net8.0\refint\vendingMachine1.0.dll
+C:\Users\Cesae\Desktop\Programação Estruturada\Projetos\Exercicios\vendingMachine\vendingMachine1.0\vendingMachine1.0\obj\Debug\net8.0\vendingMachine1.0.pdb
+C:\Users\Cesae\Desktop\Programação Estruturada\Projetos\Exercicios\vendingMachine\vendingMachine1.0\vendingMachine1.0\obj\Debug\net8.0\vendingMachine1.0.genruntimeconfig.cache
+C:\Users\Cesae\Desktop\Programação Estruturada\Projetos\Exercicios\vendingMachine\vendingMachine1.0\vendingMachine1.0\obj\Debug\net8.0\ref\vendingMachine1.0.dll
