@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Cesae\\Desktop\\Programa\u00E7\u00E3o Estruturada\\Projetos\\Exercicios\\vendingMachine\\vendingMachine1.0\\",
+  "WorkspaceRootPath": "C:\\Users\\PedroRodrigues\\Desktop\\Stuff\\Projectos - ALGORITMIA\\vendingMachine\\vendingMachine1.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CAD32169-AA2D-4943-BBDC-606D932FB599}|vendingMachine1.0\\vendingMachine1.0.csproj|c:\\users\\cesae\\desktop\\programa\u00E7\u00E3o estruturada\\projetos\\exercicios\\vendingmachine\\vendingmachine1.0\\vendingmachine1.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CAD32169-AA2D-4943-BBDC-606D932FB599}|vendingMachine1.0\\vendingMachine1.0.csproj|c:\\users\\pedrorodrigues\\desktop\\stuff\\projectos - algoritmia\\vendingmachine\\vendingmachine1.0\\vendingmachine1.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CAD32169-AA2D-4943-BBDC-606D932FB599}|vendingMachine1.0\\vendingMachine1.0.csproj|solutionrelative:vendingmachine1.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Cesae\\Desktop\\Programa\u00E7\u00E3o Estruturada\\Projetos\\Exercicios\\vendingMachine\\vendingMachine1.0\\vendingMachine1.0\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\PedroRodrigues\\Desktop\\Stuff\\Projectos - ALGORITMIA\\vendingMachine\\vendingMachine1.0\\vendingMachine1.0\\Program.cs",
               "RelativeDocumentMoniker": "vendingMachine1.0\\Program.cs",
-              "ToolTip": "C:\\Users\\Cesae\\Desktop\\Programa\u00E7\u00E3o Estruturada\\Projetos\\Exercicios\\vendingMachine\\vendingMachine1.0\\vendingMachine1.0\\Program.cs",
+              "ToolTip": "C:\\Users\\PedroRodrigues\\Desktop\\Stuff\\Projectos - ALGORITMIA\\vendingMachine\\vendingMachine1.0\\vendingMachine1.0\\Program.cs",
               "RelativeToolTip": "vendingMachine1.0\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwCgAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAuwD8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T09:38:52.303Z",
               "EditorCaption": ""

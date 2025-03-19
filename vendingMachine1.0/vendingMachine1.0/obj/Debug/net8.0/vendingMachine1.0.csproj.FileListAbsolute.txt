@@ -12,3 +12,18 @@ C:\Users\Cesae\Desktop\Programação Estruturada\Projetos\Exercicios\vendingMach
 C:\Users\Cesae\Desktop\Programação Estruturada\Projetos\Exercicios\vendingMachine\vendingMachine1.0\vendingMachine1.0\obj\Debug\net8.0\vendingMachine1.0.pdb
 C:\Users\Cesae\Desktop\Programação Estruturada\Projetos\Exercicios\vendingMachine\vendingMachine1.0\vendingMachine1.0\obj\Debug\net8.0\vendingMachine1.0.genruntimeconfig.cache
 C:\Users\Cesae\Desktop\Programação Estruturada\Projetos\Exercicios\vendingMachine\vendingMachine1.0\vendingMachine1.0\obj\Debug\net8.0\ref\vendingMachine1.0.dll
+C:\Users\PedroRodrigues\Desktop\Stuff\Projectos - ALGORITMIA\vendingMachine\vendingMachine1.0\vendingMachine1.0\bin\Debug\net8.0\vendingMachine1.0.exe
+C:\Users\PedroRodrigues\Desktop\Stuff\Projectos - ALGORITMIA\vendingMachine\vendingMachine1.0\vendingMachine1.0\bin\Debug\net8.0\vendingMachine1.0.deps.json
+C:\Users\PedroRodrigues\Desktop\Stuff\Projectos - ALGORITMIA\vendingMachine\vendingMachine1.0\vendingMachine1.0\bin\Debug\net8.0\vendingMachine1.0.runtimeconfig.json
+C:\Users\PedroRodrigues\Desktop\Stuff\Projectos - ALGORITMIA\vendingMachine\vendingMachine1.0\vendingMachine1.0\bin\Debug\net8.0\vendingMachine1.0.dll
+C:\Users\PedroRodrigues\Desktop\Stuff\Projectos - ALGORITMIA\vendingMachine\vendingMachine1.0\vendingMachine1.0\bin\Debug\net8.0\vendingMachine1.0.pdb
+C:\Users\PedroRodrigues\Desktop\Stuff\Projectos - ALGORITMIA\vendingMachine\vendingMachine1.0\vendingMachine1.0\obj\Debug\net8.0\vendingMachine1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PedroRodrigues\Desktop\Stuff\Projectos - ALGORITMIA\vendingMachine\vendingMachine1.0\vendingMachine1.0\obj\Debug\net8.0\vendingMachine1.0.AssemblyInfoInputs.cache
+C:\Users\PedroRodrigues\Desktop\Stuff\Projectos - ALGORITMIA\vendingMachine\vendingMachine1.0\vendingMachine1.0\obj\Debug\net8.0\vendingMachine1.0.AssemblyInfo.cs
+C:\Users\PedroRodrigues\Desktop\Stuff\Projectos - ALGORITMIA\vendingMachine\vendingMachine1.0\vendingMachine1.0\obj\Debug\net8.0\vendingMachine1.0.csproj.CoreCompileInputs.cache
+C:\Users\PedroRodrigues\Desktop\Stuff\Projectos - ALGORITMIA\vendingMachine\vendingMachine1.0\vendingMachine1.0\obj\Debug\net8.0\vendingMachine1.0.sourcelink.json
+C:\Users\PedroRodrigues\Desktop\Stuff\Projectos - ALGORITMIA\vendingMachine\vendingMachine1.0\vendingMachine1.0\obj\Debug\net8.0\vendingMachine1.0.dll
+C:\Users\PedroRodrigues\Desktop\Stuff\Projectos - ALGORITMIA\vendingMachine\vendingMachine1.0\vendingMachine1.0\obj\Debug\net8.0\refint\vendingMachine1.0.dll
+C:\Users\PedroRodrigues\Desktop\Stuff\Projectos - ALGORITMIA\vendingMachine\vendingMachine1.0\vendingMachine1.0\obj\Debug\net8.0\vendingMachine1.0.pdb
+C:\Users\PedroRodrigues\Desktop\Stuff\Projectos - ALGORITMIA\vendingMachine\vendingMachine1.0\vendingMachine1.0\obj\Debug\net8.0\vendingMachine1.0.genruntimeconfig.cache
+C:\Users\PedroRodrigues\Desktop\Stuff\Projectos - ALGORITMIA\vendingMachine\vendingMachine1.0\vendingMachine1.0\obj\Debug\net8.0\ref\vendingMachine1.0.dll
